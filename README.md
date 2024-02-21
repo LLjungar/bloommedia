@@ -34,6 +34,13 @@ En detaljeret log over ændringer foretaget i løbet af projektets udvikling. Om
 
 En liste over planlagte eller ønskede forbedringer til projektet. Dette afsnit hjælper os med at holde styr på ideer og prioriteringer for fremtidig udvikling:
 
+- **[Linn]**: Koder base: herunder header og footer, responsivitet med grid osv. 
+- **[Jonas]**: Alt indhold på siden "cases" hvor vi ønsker hover, i samarbejde med Linn.
+
+(Nåede ikke at kode meget under sidste forløb og udfordrer derfor sig selv denne gang, for opfriskning før næste projekt:)
+- **[Ines]**: Inhold til kontaktsiden, herunder først og frememst kontaktformular.
+- **[Emma]**: Sætter indoldet på siden Services op. Og muligvis grid til desktop version i samarbejde med Linn. 
+
 ## Kontakt
 
 Jonas Laursen, Ines Johanson, Emma Madsen og Linn Ljungar; dkmmd23c2o. Februar-marts 2024. 
